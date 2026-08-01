@@ -1,2 +1,5 @@
-# my_first_project
-my first project on Github
+# My First Project
+
+This is my first project on GitHub.
+
+Created by Khalid.
